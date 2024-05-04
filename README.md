@@ -1,6 +1,6 @@
 ## GIKI BAZAR
 
-A semester project for Database Management Systems. This is an online buy/sell app for GIK Institute. This is only the Front-End of the Project. The backend is private and will not be disclosed publicly since it contains sensitive data.
+A semester project for Database Management Systems. This is an online buy/sell app for GIK Institute written in flutter. This is only the Front-End of the Project. The backend is private and will not be disclosed publicly since it contains sensitive data.
 
 
 The code imitates this figma design:
